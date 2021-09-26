@@ -1,0 +1,40 @@
+{
+  "title": "20200831_185527.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1608189053",
+    "formatted": "17.12.2020 г., 7:10:53 ч. UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1598889326",
+    "formatted": "31.08.2020 г., 15:55:26 ч. UTC"
+  },
+  "geoData": {
+    "latitude": 42.5306644,
+    "longitude": 27.457287899999997,
+    "altitude": 52.799,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 42.5306644,
+    "longitude": 27.457287899999997,
+    "altitude": 52.799,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/LgPwjvDaR2yOqDTSKuKnFhyvi38HKaIKSamc25hdgFFSQjkumWANIhjG9ncI2saQHlGln0YFyZ_p-gx0Nu_Q98B8spHpW8UFZSncPqqQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1622291842",
+    "formatted": "29.05.2021 г., 12:37:22 ч. UTC"
+  }
+}
