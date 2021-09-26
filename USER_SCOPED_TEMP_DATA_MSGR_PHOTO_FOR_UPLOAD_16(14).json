@@ -1,0 +1,40 @@
+{
+  "title": "USER_SCOPED_TEMP_DATA_MSGR_PHOTO_FOR_UPLOAD_1603367896238_6725012380665627204.jpeg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1608197021",
+    "formatted": "17.12.2020 г., 9:23:41 ч. UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1603367901",
+    "formatted": "22.10.2020 г., 11:58:21 ч. UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/4-C02jTW7Kbg7LwUTVavyId9du31S7eZLSfzHULuds7kuVviqzX9bHaIhXamMIRL4J3umlTf45qsQrdRv8t_P2j4xhynKQakLSPN8M3h",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Messenger"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1622201472",
+    "formatted": "28.05.2021 г., 11:31:12 ч. UTC"
+  }
+}
